@@ -5,4 +5,4 @@ spring:
         registration:
           github:
             client-id : Ov23lia7P3dFkF9G0dZ4
-            client-secret: f23088d15cc1ed0ef198b279dcacf932505beb3b
+            client-secret: f23088d15cc1ed0ef198b279dcacf932505beb3b (There is no point of copying this, I rotated the secret, this is just me being edgy because I got to learn something new)
